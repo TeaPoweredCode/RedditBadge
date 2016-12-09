@@ -3,7 +3,7 @@
   
   $userName = $_GET["user"];
   
-  $url = "http://www.reddit.com/user/" . $userName . "/about.json";
+  $url = "https://www.reddit.com/user/" . $userName . "/about.json";
   
   $ch = curl_init($url);
   curl_setopt($ch, CURLOPT_RETURNTRANSFER, true); 
