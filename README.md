@@ -1,7 +1,9 @@
 # RedditBadge
 Show off your karma with the RedditBadge
-</br>Just add your reddit username to the url below
-</br>Url : http://r-w.co/RedditBadge/?user=
-</br>
-</br> e.g. http://r-w.co/RedditBadge/?user=MrLuxan
-</br><img src="http://r-w.co/RedditBadge/?user=MrLuxan">
+Just add your reddit username to the url below
+Url : http://r-w.co/RedditBadge/?user=
+
+e.g. http://r-w.co/RedditBadge/?user=MrLuxan
+<img src="http://r-w.co/RedditBadge/?user=MrLuxan">
+---
+Don't want to rely on my sever ? use a [RedditBadgeJS](https://github.com/MrLuxan/RedditBadgeJS) JavaScript implementation.
