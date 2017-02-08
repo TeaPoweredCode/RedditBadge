@@ -6,4 +6,4 @@ Url : http://r-w.co/RedditBadge/?user=
 e.g. http://r-w.co/RedditBadge/?user=MrLuxan
 <img src="http://r-w.co/RedditBadge/?user=MrLuxan">
 ---
-Don't want to rely on my sever ? use '[RedditBadgeJS](https://github.com/MrLuxan/RedditBadgeJS)' a JavaScript implementation.
+Want a JavaScript verison ? [RedditBadgeJS](https://github.com/MrLuxan/RedditBadgeJS)
